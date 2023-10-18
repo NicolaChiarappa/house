@@ -37,7 +37,7 @@ const Head = () => {
       <VStack>
         <HStack mt={10} justify='space-between' w='100vw' px='10'>
           <Heading size='xl' mx='0px' textAlign='center'>
-            Pavia House
+            Pavia Houses
           </Heading>
 
           <Image
@@ -91,7 +91,7 @@ const Head = () => {
         <Button colorScheme='teal' textColor='blue'>
           <HStack>
             <p>Le stanze più cliccate</p>
-            <Icon as={HiArrowDown} w='8vw' h='8vw'></Icon>
+            <Icon as={HiArrowDown} w='25px' h='25px'></Icon>
           </HStack>
         </Button>
       </VStack>
