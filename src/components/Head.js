@@ -37,7 +37,7 @@ const Head = () => {
       <VStack>
         <HStack mt={10} justify='space-between' w='100vw' px='10'>
           <Heading size='xl' mx='0px' textAlign='center'>
-            Pavia Houses
+            Pavia House
           </Heading>
 
           <Image
